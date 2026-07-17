@@ -78,7 +78,7 @@ class Program
                 {
                     total = total + p.price;
                 }
-
+                Console.WriteLine("THE GROCERY SHOP");
                 Console.WriteLine("Total Store Worth: " + total);
                 Console.ReadKey();
             }
